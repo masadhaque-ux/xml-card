@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="data.xsl" type="text/xsl"?>
+<studentinfo>
+    <data id='001'>
+        <name>Asad</name>
+        <email>masad.haque@gmail.com</email>
+        <course>DISM</course>
+        <contact>03312916544</contact>
+        <city>Karachi</city>
+        <image>image/w1.jfif</image>
+    </data>
+    <data id='002'>
+        <name>Ashar</name>
+        <email>ashar@gmail.com</email>
+        <course>DISM</course>
+        <contact>0324151564</contact>
+        <city>Karachi</city>
+        <image>image/w2.jfif</image>
+    </data>
+    <data id='003'>
+        <name>Fatim</name>
+        <email>fatim@gmail.com</email>
+        <course>DISM</course>
+        <contact>03156542878</contact>
+        <city>Karachi</city>
+        <image>image/w3.jfif</image>
+    </data>
+    <data id='004'>
+        <name>Sameer</name>
+        <email>sameer@gmail.com</email>
+        <course>DISM</course>
+        <contact>033354545454</contact>
+        <city>Karachi</city>
+        <image>image/w4.jfif</image>
+    </data>
+    <data id='005'>
+        <name>Bilal</name>
+        <email>bilal@gmail.com</email>
+        <course>DISM</course>
+        <contact>0345268547</contact>
+        <city>Karachi</city>
+        <image>image/w5.jfif</image>
+    </data>
+    <data id='006'>
+        <name>Maaz</name>
+        <email>maaz@gmail.com</email>
+        <course>DISM</course>
+        <contact>03256487597</contact>
+        <city>Karachi</city>
+        <image>image/w6.jpg</image>
+    </data>
+    <data id='007'>
+        <name>Sandal</name>
+        <email>sandal@gmail.com</email>
+        <course>DISM</course>
+        <contact>0318454254</contact>
+        <city>Karachi</city>
+        <image>image/w7.jpg</image>
+    </data>
+    <data id='008'>
+        <name>Emaan</name>
+        <email>emaan@gmail.com</email>
+        <course>DISM</course>
+        <contact>0333335454</contact>
+        <city>Karachi</city>
+        <image>image/w8.jfif</image>
+    </data>
+    <data id='009'>
+        <name>Shahzeb</name>
+        <email>shahzeb@gmail.com</email>
+        <course>DISM</course>
+        <contact>03345456578</contact>
+        <city>Karachi</city>
+        <image>image/w9.jfif</image>
+    </data>
+    <data id='010'>
+        <name>Ali</name>
+        <email>ali@gmail.com</email>
+        <course>DISM</course>
+        <contact>0332254546</contact>
+        <city>Karachi</city>
+        <image>image/w10.jpg</image>
+    </data>
+
+</studentinfo>
